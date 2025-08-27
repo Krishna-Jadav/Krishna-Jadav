@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Krishna 
 
-<!--
-**Krishna-Jadav/Krishna-Jadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a 3rd-year BCA student passionate about **Data Science, Data Analysis, and Web Development**.  
+💻 Currently learning **Python, Java, HTML, CSS** to strengthen my programming and analytical skills.  
+🚀 My goal is to contribute to open-source projects, build impactful applications, and grow as a developer.  
 
-Here are some ideas to get you started:
+## 🌱 What I’m currently working on  
+- Exploring **Data Science & Analytics** projects  
+- Building small **web projects** using HTML, CSS, and JavaScript  
+- Practicing coding challenges to improve problem-solving skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Goals  
+- Gain expertise in **Data Science & Machine Learning**  
+- Build a strong portfolio on GitHub with practical projects  
+- Collaborate with other developers and contribute to the community  
+
+## 📫 Connect with me  
+- GitHub: [https://github.com/Krishna-Jadav]  
+- LinkedIn: [https://www.linkedin.com/in/krishna-jadav-0073b02a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
+- Email: [Krishnajjadav55@gmail.com]  
+
