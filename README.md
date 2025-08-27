@@ -17,5 +17,5 @@
 ## 📫 Connect with me  
 - GitHub: [Krishna Jadav](https://github.com/Krishna-Jadav)  
 - Linkedin : [Krishna Jadav](https://www.linkedin.com/in/krishna-jadav-0073b02a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-- Email: [LKrishna Jadva](Krishnajjadav55@gmail.com)  
+- Email: [Krishna Jadav](Krishnajjadav55@gmail.com)  
 
